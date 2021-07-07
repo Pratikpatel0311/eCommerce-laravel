@@ -13,7 +13,7 @@
                         <img class="trending-img" src="{{ $item['gallery'] }}" alt="{{ $item['name'] }}">
                         <div class="">
                             <h3>{{ $item['name'] }}</h3>
-                            <p>{{ $item['descrition'] }}</p>
+                            <p>{{ $item['description'] }}</p>
                         </div>
                     </a>
                 </div>
